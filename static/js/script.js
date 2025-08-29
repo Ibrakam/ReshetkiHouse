@@ -1,19 +1,19 @@
 // Слайды (замени картинки/тексты при необходимости)
 const slidesData = [
   {
-    title: "Inferno",
-    text: "Погрузитесь в атмосферу современного модерна с кухней Inferно — сочетание стиля и технологий в каждой детали!",
-    image: "https://images.unsplash.com/photo-1600585154526-990dced4db0d?q=80&w=1920&auto=format&fit=crop"
+    title: "Элегантный кованный навес",
+    text: "Элегантный кованный навес и ворота — сочетание классики и современного стиля для вашего дома.",
+    image: "https://cdn.qwenlm.ai/output/0df0f57a-328f-48c6-883f-2c9563a3e8fe/t2i/2f0d5d7a-49c7-485e-a126-3aa6177237fa/175"
   },
   {
-    title: "Destiny",
-    text: "Откройте дверь в свой мир с кухней Destiny — современный стиль и неповторимая элегантность!",
-    image: "https://images.unsplash.com/photo-1620799139507-1ff5b51c0702?q=80&w=1920&auto=format&fit=crop"
+    title: "Современная лестница",
+    text: "Современная лестница с подсветкой и дизайнерскими перилами — уют и стиль в каждой детали.",
+    image: "https://cdn.qwenlm.ai/output/0df0f57a-328f-48c6-883f-2c9563a3e8fe/t2i/5efe781d-c762-4019-bb5f-fc23cc579166/175"
   },
   {
-    title: "Glass All",
-    text: "Создайте уникальное пространство с дизайнерскими гардеробными Glass All от Dall’Agnese.",
-    image: "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?q=80&w=1920&auto=format&fit=crop"
+    title: "Современные оконные решётки",
+    text: "Современные оконные решётки — надёжная защита и изысканный дизайн фасада.",
+    image: "https://cdn.qwenlm.ai/output/0df0f57a-328f-48c6-883f-2c9563a3e8fe/t2i/4b7804b5-baf5-473b-b7b2-0d5319efe7ef/175"
   }
 ];
 
